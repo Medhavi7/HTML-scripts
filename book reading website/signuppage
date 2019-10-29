@@ -1,0 +1,65 @@
+<html>
+    <head> 
+        <title>book reading website</title>
+    </head>
+    
+    <body style="background-image:url(Annotation%202019-09-17%20214333.png);" width="100%" height="100%" >
+      
+        <table style="text-align:center" align="center">
+            <form stlye="text-align:center">
+                <center><font size="50">Sign up</font></center>
+
+                
+                <tr>
+                    <h1><th >Username: </th></h1>
+                    <td><input type="text"  name="username"></td> 
+                </tr>
+                
+                <tr>
+                    <h1><th>Email: </th></h1>
+                    <td><input type="text"  name="email"></td>
+                </tr>
+                
+                <tr>
+                    <h1><th>Password: </th></h1>
+                    <td><input type="password"  name="pas"></td>
+                </tr>
+                
+                <tr>
+                    <h1><th>Mobile no.: </th></h1>
+                    <td><input type="number"  name="mob"></td>
+                </tr>
+                
+                <tr>
+                    <h1><th>Date of birth: </th></h1>
+                    <td><input type="date"></td>
+                </tr>
+                
+                <tr>
+                    <h1><th>Male</th></h1>
+                    <td><input type="radio"></td>
+                    <h1><th>Female</th></h1>
+                    <td><input type="radio"></td>
+                </tr>
+        
+            </form>
+            
+            
+            
+        </table><br>
+        
+        <center>
+                <a href="file:///C:/Users/jaypa/Desktop/book%20reading%20website/books.html">
+                <input type="Submit" name="sub" value="Submit" style="text-emphasis-color: blue " >
+                </a>
+                <br><br>
+                <input type="button" name="but" value="Cancel" >
+                <br><br>
+        </center>
+        
+        <center>
+            <h3>Already have an account?</h3>
+            <input type="login" name="login" value="login">
+        </center>
+    </body>
+</html>
